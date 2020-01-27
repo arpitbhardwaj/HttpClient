@@ -1,0 +1,5 @@
+https://httpstat.us/200?sleep=6000
+https://www.pluralsight.com
+https://pluralsight.com
+https://openjdk.java.net
+https://httpstat.us/500
